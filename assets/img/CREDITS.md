@@ -1,0 +1,11 @@
+# Photo credits (Pexels)
+- hero/hero.jpg — Alexander Krivitskiy
+- rooms/veneers.jpg — https://kaboompics.com/
+- rooms/whitening.jpg — https://kaboompics.com/
+- rooms/implant.jpg — Tima Miroshnichenko
+- rooms/hygiene.jpg — Marcus Aurelius
+- rooms/aligners.jpg — Laura  Beauty Designer | Brasil
+- rooms/smile.jpg — Engin Akyurt
+- infra/interior.jpg — Cedric Fauntleroy
+- infra/detail.jpg — cottonbro studio
+- infra/doc.jpg — Arda Kaykısız
